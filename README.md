@@ -32,8 +32,8 @@ RMSE: Tahminlerin ortalama hatasını gösterir, gerçek değerlerden sapmayı �
 Örnek Tablo:
 
 Model	        R2 Train  R2 Test  RMSE
-LassoLarsCV	0.65	  0.77	   1.28
-LassoLarsIC	0.64	  0.76	   1.28
-ElasticNetCV	0.66	  0.78	   1.25
+LassoLarsCV	  0.65	    0.77	   1.28
+LassoLarsIC  	0.64	    0.76	   1.28
+ElasticNetCV	0.66	    0.78	   1.25
 
 Değerler birbirine yakın çıkmış, bu modellerin tutarlı ve stabil olduğunu gösterir.
